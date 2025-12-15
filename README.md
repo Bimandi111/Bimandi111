@@ -1,4 +1,4 @@
-<div align="center">
+m  <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,24,30&height=200&section=header&text=✨%20Bimandi%20Nesanga%20✨&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35"/>
   
   <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
