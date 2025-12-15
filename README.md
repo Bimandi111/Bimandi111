@@ -11,9 +11,13 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bimandi111&label=💖+Visitors&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Bimandi111?label=✨+Followers&style=for-the-badge&color=ff69b4" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Bimandi111?label=🌟+Stars&style=for-the-badge&color=ffb6c1" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=Bimandi111&label=Profile+Views&color=ff69b4&style=for-the-badge&logo=eye" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Bimandi111?label=Followers&style=for-the-badge&color=ff69b4&logo=github" alt="followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Total%20Stars&style=for-the-badge&color=ffb6c1&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Bimandi111" alt="stars" />
+</p>
+
+<p align="center">
+  💖 Visitors • ✨ Followers • 🌟 Stars
 </p>
 
 <p align="center">
@@ -26,7 +30,7 @@
 
 ## 💖 About Me 🌸
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Hey there! I'm Bimandi** ✨/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Hey there! I'm Bimandi** ✨
 <img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/a4/04/a4/a404a481f48045b1a24cdbba5cc8d350.gif">
 
 ```yaml
@@ -143,7 +147,7 @@
 ## 🏆 GitHub Achievements & Trophies 💖
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bimandi111&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Bimandi111&theme=algolia&no-frame=false&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
