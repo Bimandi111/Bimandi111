@@ -24,11 +24,10 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </div>
 
-<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/a4/04/a4/a404a481f48045b1a24cdbba5cc8d350.gif">
-
 ## 💖 About Me 🌸
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Hey there! I'm Bimandi** ✨
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Hey there! I'm Bimandi** ✨/>
+<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/a4/04/a4/a404a481f48045b1a24cdbba5cc8d350.gif">
 
 ```yaml
 💝 name: Bimandi Nesanga
