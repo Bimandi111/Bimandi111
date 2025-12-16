@@ -144,16 +144,6 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </div>
 
-## 🏆 GitHub Achievements & Trophies 💖
-
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=Bimandi111&theme=algolia&no-frame=false&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
-</div>
-
 ## 💭 Developer Wisdom & Inspiration 🌸
 
 <div align="center">
