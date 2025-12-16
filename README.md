@@ -77,6 +77,7 @@
 
 ## 🎀 My Tech Stack & Tools ✨
 
+
 <div align="center">
 
 ### 💖 Frontend Development
@@ -123,21 +124,30 @@
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
-</div>
+</div>  
 
 ## 📊 GitHub Analytics 🌸
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bimandi111&show_icons=true&theme=buefy&hide_border=true&bg_color=fff0f5&title_color=ff1493&icon_color=ff69b4&text_color=ff1493&border_radius=15" alt="GitHub Stats"/>
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=Bimandi111&theme=buefy&hide_border=true&background=fff0f5&stroke=ff69b4&ring=ff1493&fire=ff69b4&currStreakLabel=ff1493&border_radius=15" alt="GitHub Streak"/>
+  <img width="49%" 
+       src="https://github-readme-stats.vercel.app/api?username=Bimandi111&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2&border_radius=15" 
+       alt="GitHub Stats"/>
+
+  <img width="49%" 
+       src="https://nirzak-streak-stats.vercel.app/?user=Bimandi111&theme=dark&hide_border=true&background=0d1117&stroke=44475a&ring=ff79c6&fire=ffb86c&currStreakLabel=ff79c6&border_radius=15" 
+       alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimandi111&layout=compact&theme=buefy&hide_border=true&bg_color=fff0f5&title_color=ff1493&text_color=ff69b4&langs_count=8&border_radius=15" alt="Top Languages"/>
+  <img width="60%" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimandi111&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=f8f8f2&langs_count=8&border_radius=15" 
+       alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bimandi111&bg_color=fff0f5&color=ff1493&line=ff69b4&point=ff1493&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img 
+       src="https://github-readme-activity-graph.vercel.app/graph?username=Bimandi111&bg_color=0d1117&color=f8f8f2&line=ff79c6&point=ffb86c&area=true&hide_border=true" 
+       alt="Contribution Graph"/>
 </div>
 
 <div align="center">
@@ -147,18 +157,25 @@
 ## 💭 Developer Wisdom & Inspiration 🌸
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote"/>
+  <img 
+       src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" 
+       alt="Random Dev Quote"/>
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+  <img 
+       src="https://i.imgur.com/dBaSKWF.gif" 
+       height="30" 
+       width="100%">
 </div>
 
 ## 🔝 Top Contributed Repositories ✨
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Bimandi111&limit=5&theme=vue&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Bimandi111&limit=5&combine_all_yearly_contributions=true&hide_border=true&theme=radical" 
+       alt="Top Contributed Repo"/>
 </div>
+
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
@@ -181,12 +198,10 @@
 
 ### Thanks for visiting! Have a wonderful day! 💕✨🦋
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,24,30&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,24,30&height=120&section=footer"/>
 </div>
 
 <div align="center">
