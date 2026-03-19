@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=250&section=header&text=Bimandi%20Nesanga&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%20Crafting%20Beautiful%20Code%20with%20Passion%20✨&descAlignY=55&descAlign=50"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Bimandi%20Nesanga&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✨%20Crafting%20Beautiful%20Code%20with%20Passion%20✨&descAlignY=55&descAlign=50"/>
   
 </div>
 
@@ -29,7 +29,7 @@
 
 ## 🌸 About Me
 
-<img align="right" alt="Coding Girl" width="400" src="https://i.pinimg.com/originals/a4/04/a4/a404a481f48045b1a24cdbba5cc8d350.gif">
+<img align="right" alt="Coding Girl" width="500" src="https://i.pinimg.com/originals/a4/04/a4/a404a481f48045b1a24cdbba5cc8d350.gif" style="margin-top = '20px'" >
 
 ```typescript
 const bimandi = {
@@ -115,7 +115,7 @@ const bimandi = {
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
@@ -226,7 +226,7 @@ const bimandi = {
 
 <!-- Footer Wave -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </div>
 
 <div align="center">
