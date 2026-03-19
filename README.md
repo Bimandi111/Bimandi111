@@ -14,10 +14,10 @@
 
 <!-- Badges Section -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bimandi111&label=Profile+Views&color=ff69b4&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Bimandi111?label=Followers&style=flat-square&color=ffb6c1&logo=github" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-ff69b4?style=flat-square" alt="focus" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka%20🇱🇰-success?style=flat-square" alt="location" />
+  <img src="https://komarev.com/ghpvc/?username=Bimandi111&label=Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Bimandi111?label=Followers&style=for-the-badge&color=ff69b4&labelColor=ff1493&logo=github&logoColor=white" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-ff69b4?style=for-the-badge&labelColor=ff1493" alt="focus" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka%20🇱🇰-00d9ff?style=for-the-badge&labelColor=0891b2" alt="location" />
 </p>
 
 <br>
@@ -97,7 +97,7 @@ const bimandi = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="50" height="50"/>
@@ -262,7 +262,7 @@ const bimandi = {
 
 <div align="center">
   
-  **Made with 💖 by Bimandi Nesanga**
+  **Made with 💖 and ✨ by Bimandi Nesanga**
   
   <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="200" />
   
