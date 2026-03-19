@@ -29,7 +29,7 @@
 
 ## 🌸 About Me
 
-<img align="right" alt="Coding Girl" width="500" src="https://i.pinimg.com/originals/a4/04/a4/a404a481f48045b1a24cdbba5cc8d350.gif" style="margin-top = '20px'" >
+<img align="right" alt="Coding Girl" width="400" src="https://i.pinimg.com/originals/a4/04/a4/a404a481f48045b1a24cdbba5cc8d350.gif" style="margin-top = '20px'" >
 
 ```typescript
 const bimandi = {
