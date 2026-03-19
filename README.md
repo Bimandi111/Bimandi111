@@ -147,7 +147,7 @@ const bimandi = {
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimandi111&layout=compact&hide_border=true&title_color=ff69b4&text_color=c9d1d9&bg_color=0d1117&langs_count=8&border_radius=10&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bimandi111&hide_border=true&title_color=ff69b4&text_color=c9d1d9&bg_color=0d1117&layout=compact&border_radius=10&custom_title=Coding%20Activity" alt="Coding Activity" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bimandi111&theme=radical&utcOffset=5.5" alt="Productive Time" />
 
 </div>
 
@@ -162,36 +162,10 @@ const bimandi = {
 
 <br>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bimandi111&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" width="95%"/>
-</div>
-
-<br>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
 ## 💭 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
-</div>
-
-<br>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Bimandi111&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo"/>
 </div>
 
 <br>
@@ -255,14 +229,9 @@ const bimandi = {
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer"/>
 </div>
 
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
-</div>
-
 <div align="center">
   
-  **Made with 💖 and ✨ by Bimandi Nesanga**
+  **Made with 💖 by Bimandi Nesanga**
   
   <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="200" />
   
