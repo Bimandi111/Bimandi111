@@ -151,21 +151,19 @@ const bimandi = {
 
 <div align="center">
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Bimandi111&show_icons=true&count_private=true&hide_border=true&title_color=ff2e88&icon_color=ff69b4&text_color=c9d1d9&bg_color=0d1117&border_radius=4" />
-<img width="49%" height="195px" src="https://nirzak-streak-stats.vercel.app/?user=Bimandi111&theme=dark&hide_border=true&background=0d1117&stroke=ff2e88&ring=ff69b4&fire=ff2e88&currStreakLabel=ff69b4&border_radius=4" />
+<img width="49%" height="195px" src="https://streak-stats.demolab.com?user=Bimandi111&theme=radical&hide_border=true&background=0D1117&stroke=FF2E88&ring=FF69B4&fire=FF2E88&currStreakLabel=FF69B4" />
 
 </div>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimandi111&layout=compact&hide_border=true&title_color=ff2e88&text_color=c9d1d9&bg_color=0d1117&langs_count=8&border_radius=4&custom_title=Most%20Used%20Languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bimandi111&theme=radical&utcOffset=5.5" />
+<img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bimandi111&theme=radical&utcOffset=5" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bimandi111&bg_color=0d1117&color=ff69b4&line=ff2e88&point=ffffff&area=true&area_color=ff2e88&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bimandi111&bg_color=0d1117&color=ff69b4&line=ff2e88&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph"/>
 
 </div>
 
