@@ -1,13 +1,9 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a0e1f,35,c9a96e,65,c9a0c0,100,1a0e1f&height=260&section=header&text=BIMANDI%20NESANGA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=✦%20Crafting%20Beautiful%20Code%20With%20Passion%20✦&descColor=C9A0C0&descAlignY=62" />
+</p>
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0a0a0f,30,ff2e88,100,ff69b4&height=260&section=header&text=BIMANDI%20NESANGA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9C%A6%20Crafting%20Beautiful%20Code%20With%20Passion%20%E2%9C%A6&descAlignY=56&descAlign=50&descSize=15&descColor=ff69b4"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF2E88&center=true&vCenter=true&random=false&width=750&lines=%3E+Full+Stack+Developer+%26+Creator;%3E+Backend+Architecture+Enthusiast;%3E+Building+Dreams+One+Line+at+a+Time;%3E+Java+%7C+TypeScript+%7C+React+Native)](https://git.io/typing-svg)
-
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF2E88&center=true&vCenter=true&random=false&width=750&lines=%3E+Full+Stack+Developer+%26+Creator;%3E+UI+/+UX+Enthusiast+|+Mobile+Application+Developer;%3E+Web+Developer;%3E+Java+%7C+TypeScript+%7C+React+Native)](https://git.io/typing-svg)
 </div>
 
 <p align="center">
@@ -17,237 +13,299 @@
   <img src="https://img.shields.io/badge/BASE-SRI%20LANKA%20%F0%9F%87%B1%F0%9F%87%B0-ff2e88?style=for-the-badge&labelColor=0d1117" />
 </p>
 
-<br>
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 ## `// ABOUT_ME.JSON`
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td width="55%" valign="top">
 
 ```typescript
 const bimandi = {
-    name: "Bimandi Nesanga",
-    location: "Sri Lanka 🇱🇰",
-    role: "Full Stack Developer",
-    education: "Software Engineering Student",
+  name:       "Bimandi Nesanga",
+  location:   "Sri Lanka 🇱🇰",
+  role:       "Full Stack Developer & Aspiring Software Engineer",
+  education:  "Software Engineering Student",
 
-    currentlyLearning: [
-        "Advanced System Architecture",
-        "Mobile App Development",
-        "Cloud Infrastructure"
-    ],
+  currentlyLearning: [
+    "Advanced System Architecture",
+    "Mobile App Development",
+    "Cloud Infrastructure",
+  ],
 
-    workingOn: [
-        "Scalable Backend Systems",
-        "React Native Applications",
-        "POS & Inventory Solutions"
-    ],
+  workingOn: [
+    "Scalable Backend Systems",
+    "React Native Applications",
+    "POS & Inventory Solutions",
+  ],
 
-    philosophy: "Beautiful code is maintainable code ✨",
-    funFact:    "I refactor until it sparkles! 💫"
+  philosophy: "Beautiful code is maintainable code ✨",
+  funFact:    "I refactor until it sparkles! 💫",
 };
 ```
 
 </td>
-<td valign="top" width="45%" align="center">
+<td width="45%" valign="middle" align="center">
 
-<img src="https://i.pinimg.com/originals/a4/04/a4/a404a481f48045b1a24cdbba5cc8d350.gif" width="300" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" alt="coding gif" />
 
 </td>
 </tr>
 </table>
 
-<br>
+<br/>
 
-| TAG | STATUS |
-|-----|--------|
-| `⬡ BUILD` | Enterprise-grade Java apps & cross-platform mobile |
-| `⬡ EXPLORE` | TypeScript, React Native & modern backend architectures |
-| `⬡ LEARN` | Clean code principles, design patterns & microservices |
-| `⬡ OPEN TO` | Collaborating on production-ready & innovative systems |
-| `⬡ ASK ME` | Java · TypeScript · React Native · System Design · DB Optimization |
-| `⬡ BELIEF` | Code should be elegant, efficient, and delightful |
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-## `// TECH_STACK.SYS`
-
-<br>
-
-**`LANGUAGES & FRAMEWORKS`**
-
-<div align="center">
-<table><tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48"/><br><sub><b>Java</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48"/><br><sub><b>Spring</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48"/><br><sub><b>TypeScript</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48"/><br><sub><b>JavaScript</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48"/><br><sub><b>React</b></sub></td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=laravel" width="48" height="48"/><br><sub><b>Laravel</b></sub></td>
-</tr></table>
-</div>
-
-<br>
-
-**`FRONTEND & DESIGN`**
-
-<div align="center">
-<table><tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48"/><br><sub><b>HTML5</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48"/><br><sub><b>CSS3</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48"/><br><sub><b>Bootstrap</b></sub></td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br><sub><b>Tailwind</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48" height="48"/><br><sub><b>jQuery</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48"/><br><sub><b>Figma</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48"/><br><sub><b>Canva</b></sub></td>
-</tr></table>
-</div>
-
-<br>
-
-**`DATABASES & CLOUD`**
-
-<div align="center">
-<table><tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48"/><br><sub><b>MySQL</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48"/><br><sub><b>Oracle</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48"/><br><sub><b>AWS</b></sub></td>
-</tr></table>
-</div>
-
-<br>
-
-**`TOOLS & ENVIRONMENT`**
-
-<div align="center">
-<table><tr>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48"/><br><sub><b>Git</b></sub></td>
-<td align="center" width="100"><img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br><sub><b>GitHub</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/><br><sub><b>VS Code</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="48" height="48"/><br><sub><b>IntelliJ</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48"/><br><sub><b>Postman</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="48" height="48"/><br><sub><b>WordPress</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="48" height="48"/><br><sub><b>Tomcat</b></sub></td>
-<td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48"/><br><sub><b>Arduino</b></sub></td>
-</tr></table>
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-## `// GITHUB_METRICS.LOG`
-
-<div align="center">
-
-<img width="49%" height="195px" src="https://streak-stats.demolab.com?user=Bimandi111&theme=radical&hide_border=true&background=0D1117&stroke=FF2E88&ring=FF69B4&fire=FF2E88&currStreakLabel=FF69B4" />
-
-</div>
-
-<div align="center">
-
-<img width="49%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bimandi111&theme=radical&utcOffset=5" />
-
-</div>
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bimandi111&bg_color=0d1117&color=ff69b4&line=ff2e88&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph"/>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-## `// RANDOM_DEV_QUOTE`
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-## `// COMMIT_ACTIVITY.SNAKE`
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br>
-
-## `// CONNECT.INIT`
-
-<div align="center">
-
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="130">
-      <a href="https://www.linkedin.com/in/bimandi-nesanga-2a7347310/">
-        <img src="https://img.icons8.com/doodle/96/linkedin--v2.png" width="56" height="56"/><br>
-        <sub><code>LINKEDIN</code></sub>
-      </a>
-    </td>
-    <td align="center" width="130">
-      <a href="mailto:nesanghabim25@gmail.com">
-        <img src="https://img.icons8.com/doodle/96/gmail.png" width="56" height="56"/><br>
-        <sub><code>EMAIL</code></sub>
-      </a>
-    </td>
-    <td align="center" width="130">
-      <a href="https://facebook.com/BimandiNesanga">
-        <img src="https://img.icons8.com/doodle/96/facebook-new.png" width="56" height="56"/><br>
-        <sub><code>FACEBOOK</code></sub>
-      </a>
-    </td>
-    <td align="center" width="130">
-      <a href="https://instagram.com/noir_soo">
-        <img src="https://img.icons8.com/doodle/96/instagram-new.png" width="56" height="56"/><br>
-        <sub><code>INSTAGRAM</code></sub>
-      </a>
-    </td>
+    <td align="center">⬡ <strong>BUILD</strong></td>
+    <td>Scalable Backend Systems · React Native Applications · POS & Inventory Solutions</td>
+  </tr>
+  <tr>
+    <td align="center">⬡ <strong>EXPLORE</strong></td>
+    <td>Advanced System Architecture · Cloud Infrastructure</td>
+  </tr>
+  <tr>
+    <td align="center">⬡ <strong>LEARN</strong></td>
+    <td>Mobile App Development · Distributed Systems · Cloud-Native Patterns</td>
+  </tr>
+  <tr>
+    <td align="center">⬡ <strong>OPEN TO</strong></td>
+    <td>Collaborating on production-ready & innovative systems</td>
+  </tr>
+  <tr>
+    <td align="center">⬡ <strong>ASK ME</strong></td>
+    <td>Java · TypeScript · React Native · System Design · DB Optimization</td>
+  </tr>
+  <tr>
+    <td align="center">⬡ <strong>BELIEF</strong></td>
+    <td>Code should be elegant, efficient, and delightful</td>
   </tr>
 </table>
 
-<br>
+<br/>
 
-> `⬡ STAR` repos &nbsp;·&nbsp; `⬡ FOLLOW` on GitHub &nbsp;·&nbsp; `⬡ SHARE` projects &nbsp;·&nbsp; `⬡ CONTRIBUTE` open-source
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
-<br>
+## `// TECH_STACK.SYS`
 
-**`Thanks for stopping by — let's build something amazing together. 🚀`**
+<br/>
 
-</div>
+**`LANGUAGES & FRAMEWORKS`**
 
-<br>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br/>Java
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/><br/>Spring Boot
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br/>TypeScript
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br/>JavaScript
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br/>React
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br/>React Native
+      </td>
+      <td align="center" width="100">
+         <img src="https://img.icons8.com/ios/50/c9a96e/laravel.png" width="50"/><br/>Laravel
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/><br/>PHP
+      </td>
+    </tr>
+  </table>
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br/>
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,ff69b4,50,ff2e88,100,0a0a0f&height=120&section=footer"/>
-</div>
+**`FRONTEND & DESIGN`**
 
-<div align="center">
-  <sub><code>MADE WITH ♥ BY BIMANDI NESANGA &nbsp;·&nbsp; [ SESSION TERMINATED ]</code></sub>
-</div>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br/>HTML5
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br/>CSS3
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/><br/>Bootstrap
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/>Tailwind CSS
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50"/><br/>jQuery
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br/>Figma
+      </td>
+      <td align="center" width="100">
+        <img src="https://img.icons8.com/color/50/canva.png" width="50"/><br/>Canva
+      </td>
+    </tr>
+  </table>
+</p>
+
+<br/>
+
+**`DATABASES & CLOUD`**
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br/>MySQL
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"/><br/>Oracle
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/><br/>AWS
+      </td>
+    </tr>
+  </table>
+</p>
+
+<br/>
+
+**`TOOLS & ENVIRONMENT`**
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br/>Git
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br/>GitHub
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br/>VS Code
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50"/><br/>IntelliJ
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/><br/>Postman
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50"/><br/>WordPress
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="50"/><br/>Tomcat
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50"/><br/>Arduino
+      </td>
+    </tr>
+  </table>
+</p>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+## `// GITHUB_METRICS.LOG`
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bimandi111&theme=radical&hide_border=true&background=1A0E1F&stroke=C9A96E&ring=C9A0C0&fire=C9A96E&currStreakLabel=C9A0C0" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bimandi111&theme=radical" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bimandi111&theme=radical&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bimandi111&theme=radical&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bimandi111&theme=radical&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bimandi111&theme=radical&utcOffset=5.5" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bimandi111&bg_color=1a0e1f&color=c9a0c0&line=c9a96e&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+</p>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+## `// DEV_QUOTE.PULL`
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+</p>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+## `// CONTRIBUTION_SNAKE.LIVE`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
+</p>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
+## `// CONNECT.INIT`
+
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="150">
+        <a href="https://www.linkedin.com/in/bimandi-nesanga-2a7347310/" target="_blank">
+          <img src="https://img.icons8.com/doodle/96/linkedin--v2.png" width="60"/><br/>
+          <sub><b>LINKEDIN</b></sub>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="mailto:nesanghabim25@gmail.com">
+          <img src="https://img.icons8.com/doodle/96/gmail.png" width="60"/><br/>
+          <sub><b>EMAIL</b></sub>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://facebook.com/BimandiNesanga" target="_blank">
+          <img src="https://img.icons8.com/doodle/96/facebook-new.png" width="60"/><br/>
+          <sub><b>FACEBOOK</b></sub>
+        </a>
+      </td>
+      <td align="center" width="150">
+        <a href="https://instagram.com/noir_soo" target="_blank">
+          <img src="https://img.icons8.com/doodle/96/instagram-new.png" width="60"/><br/>
+          <sub><b>INSTAGRAM</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,c9a0c0,50,c9a96e,100,1a0e1f&height=120&section=footer" />
+</p>
+
+<p align="center">
+  <sub style="color:#C9A96E;">MADE WITH ♥ BY BIMANDI NESANGA &nbsp;·&nbsp; [ SESSION TERMINATED ]</sub>
+</p>
