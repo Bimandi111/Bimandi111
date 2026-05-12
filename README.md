@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bimandi111&label=PROFILE+VIEWS&color=ff2e88&style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/github/followers/Bimandi111?label=FOLLOWERS&style=for-the-badge&color=ff2e88&labelColor=0d1117&logo=github&logoColor=ff69b4" />
-  <img src="https://img.shields.io/badge/FOCUS-MOBILE%20APPLICATION%20DEVELOPMENT-ff2e88?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/FOCUS-BACKEND%20ENGINEERING-ff2e88?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/BASE-SRI%20LANKA%20%F0%9F%87%B1%F0%9F%87%B0-ff2e88?style=for-the-badge&labelColor=0d1117" />
 </p>
 
@@ -122,6 +122,9 @@ const bimandi = {
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=php" width="50"/><br/>PHP
       </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br/>Next.js
+      </td>
     </tr>
   </table>
 </p>
@@ -174,6 +177,9 @@ const bimandi = {
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=aws" width="50"/><br/>AWS
       </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="50"/><br/>SQL
+      </td>
     </tr>
   </table>
 </p>
@@ -208,6 +214,9 @@ const bimandi = {
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=arduino" width="50"/><br/>Arduino
+      </td>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=vercel" width="50"/><br/>Vercel
       </td>
     </tr>
   </table>
