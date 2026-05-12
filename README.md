@@ -99,28 +99,28 @@ const bimandi = {
   <table align="center">
     <tr>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br/>Java
+        <img src="https://skillicons.dev/icons?i=java" width="50"/><br/>Java
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/><br/>Spring Boot
+        <img src="https://skillicons.dev/icons?i=spring" width="50"/><br/>Spring Boot
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br/>TypeScript
+        <img src="https://skillicons.dev/icons?i=ts" width="50"/><br/>TypeScript
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br/>JavaScript
+        <img src="https://skillicons.dev/icons?i=js" width="50"/><br/>JavaScript
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br/>React
+        <img src="https://skillicons.dev/icons?i=react" width="50"/><br/>React
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br/>React Native
+        <img src="https://skillicons.dev/icons?i=react" width="50"/><br/>React Native
       </td>
       <td align="center" width="100">
-         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48"/><br/>Laravel
+        <img src="https://skillicons.dev/icons?i=laravel" width="50"/><br/>Laravel
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/><br/>PHP
+        <img src="https://skillicons.dev/icons?i=php" width="50"/><br/>PHP
       </td>
     </tr>
   </table>
@@ -134,22 +134,22 @@ const bimandi = {
   <table align="center">
     <tr>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br/>HTML5
+        <img src="https://skillicons.dev/icons?i=html" width="50"/><br/>HTML5
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br/>CSS3
+        <img src="https://skillicons.dev/icons?i=css" width="50"/><br/>CSS3
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50"/><br/>Bootstrap
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br/>Bootstrap
       </td>
       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/>Tailwind CSS
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="50"/><br/>jQuery
+        <img src="https://skillicons.dev/icons?i=jquery" width="50"/><br/>jQuery
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/><br/>Figma
+        <img src="https://skillicons.dev/icons?i=figma" width="50"/><br/>Figma
       </td>
       <td align="center" width="100">
         <img src="https://img.icons8.com/color/50/canva.png" width="50"/><br/>Canva
@@ -166,13 +166,13 @@ const bimandi = {
   <table align="center">
     <tr>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br/>MySQL
+        <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>MySQL
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"/><br/>Oracle
+        <img src="https://skillicons.dev/icons?i=oracle" width="50"/><br/>Oracle
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/><br/>AWS
+        <img src="https://skillicons.dev/icons?i=aws" width="50"/><br/>AWS
       </td>
     </tr>
   </table>
@@ -186,28 +186,28 @@ const bimandi = {
   <table align="center">
     <tr>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br/>Git
+        <img src="https://skillicons.dev/icons?i=git" width="50"/><br/>Git
       </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br/>GitHub
+        <img src="https://skillicons.dev/icons?i=github" width="50"/><br/>GitHub
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br/>VS Code
+        <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br/>VS Code
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50"/><br/>IntelliJ
+        <img src="https://skillicons.dev/icons?i=idea" width="50"/><br/>IntelliJ
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/><br/>Postman
+        <img src="https://skillicons.dev/icons?i=postman" width="50"/><br/>Postman
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50"/><br/>WordPress
+        <img src="https://skillicons.dev/icons?i=wordpress" width="50"/><br/>WordPress
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="50"/><br/>Tomcat
+        <img src="https://skillicons.dev/icons?i=tomcat" width="50"/><br/>Tomcat
       </td>
       <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50"/><br/>Arduino
+        <img src="https://skillicons.dev/icons?i=arduino" width="50"/><br/>Arduino
       </td>
     </tr>
   </table>
