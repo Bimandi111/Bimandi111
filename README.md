@@ -117,7 +117,7 @@ const bimandi = {
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br/>React Native
       </td>
       <td align="center" width="100">
-         <img src="https://img.icons8.com/ios/50/c9a96e/laravel.png" width="50"/><br/>Laravel
+         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48"/><br/>Laravel
       </td>
       <td align="center" width="100">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/><br/>PHP
