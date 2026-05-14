@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bimandi111&label=PROFILE+VIEWS&color=ff2e88&style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/github/followers/Bimandi111?label=FOLLOWERS&style=for-the-badge&color=ff2e88&labelColor=0d1117&logo=github&logoColor=ff69b4" />
-  <img src="https://img.shields.io/badge/FOCUS-MOBILE%20APPLICATION%20DEVELOPMENT-ff2e88?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEVELOPMENT-ff2e88?style=for-the-badge&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/BASE-SRI%20LANKA%20%F0%9F%87%B1%F0%9F%87%B0-ff2e88?style=for-the-badge&labelColor=0d1117" />
 </p>
 
