@@ -81,7 +81,7 @@ const bimandi = {
   </tr>
   <tr>
     <td align="center">⬡ <strong>BELIEF</strong></td>
-    <td>Code should be elegant, efficient, and delightful</td>
+    <td>Code should be functional, efficient, and perfect</td>
   </tr>
 </table>
 
