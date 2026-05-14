@@ -28,7 +28,7 @@ const bimandi = {
   name:       "Bimandi Nesanga",
   location:   "Sri Lanka 🇱🇰",
   role:       "Full Stack Developer & Aspiring Software Engineer",
-  education:  "BSc in Software Engineering",
+  education:  "BSc (Hons) in Software Engineering",
 
   currentlyLearning: [
     "Advanced System Architecture",
