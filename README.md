@@ -61,7 +61,7 @@ const bimandi = {
 <table align="center">
   <tr>
     <td align="center">⬡ <strong>BUILD</strong></td>
-    <td>Scalable Backend Systems · React Native Applications · POS & Inventory Solutions</td>
+    <td>Scalable Backend Systems · React Native Applications · Full Functional Web Applications</td>
   </tr>
   <tr>
     <td align="center">⬡ <strong>EXPLORE</strong></td>
