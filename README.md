@@ -33,7 +33,7 @@ const bimandi = {
   currentlyLearning: [
     "Advanced System Architecture",
     "Mobile App Development",
-    "Cloud Infrastructure",
+    "Cloud Computing",
   ],
 
   workingOn: [
