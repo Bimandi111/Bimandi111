@@ -19,7 +19,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## ✧ ABOUT_ME.JSON ✧
+## `// ABOUT_ME.JSON`
 
 <table>
 <tr>
@@ -43,7 +43,7 @@
 ],
 
 "philosophy": "Beautiful code is maintainable code ✨",
-"funFact": "I code with pink themes & drink bubble tea! 🧋"
+"funFact": "I refactor until it sparkles! 💫"
 }
 
 text
@@ -51,13 +51,13 @@ text
 </td>
 <td width="45%" valign="middle" align="center">
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="280" alt="pink coding girl gif"/>
-
-<img src="https://media.giphy.com/media/hpXdHPfFI5wTABd1xV/giphy.gif" width="250" alt="kawaii computer gif"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="cute cat coding gif"/>
 
 </td>
 </tr>
 </table>
+
+<br/>
 
 <br/>
 
