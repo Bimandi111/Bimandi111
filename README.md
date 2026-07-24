@@ -1,56 +1,59 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,1a0e1f,35,c9a96e,65,c9a0c0,100,1a0e1f&height=260&section=header&text=BIMANDI%20NESANGA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=✦%20Crafting%20Beautiful%20Code%20With%20Passion%20✦&descColor=C9A0C0&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,000000,35,000000,65,000000,100,000000&height=260&section=header&text=BIMANDI%20NESANGA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=✦%20Crafting%20Beautiful%20Code%20With%20Passion%20✦&descColor=FF69B4&descAlignY=62" />
 </p>
+
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF2E88&center=true&vCenter=true&random=false&width=750&lines=%3E+Full+Stack+Developer+%26+Creator;%3E+UI+/+UX+Enthusiast+|+Mobile+Application+Developer;%3E+Web+Developer;%3E+Java+%7C+TypeScript+%7C+React+Native)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=750&lines=%E2%9C%A8+Full+Stack+Developer+%26+Creator;%F0%9F%8E%80+UI%2FUX+Enthusiast+%7C+Mobile+App+Developer;%F0%9F%92%95+Java+%7C+TypeScript+%7C+React+Native;%F0%9F%8C%B8+Building+Pretty+%26+Functional+Things)](https://git.io/typing-svg)
+
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bimandi111&label=PROFILE+VIEWS&color=ff2e88&style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/followers/Bimandi111?label=FOLLOWERS&style=for-the-badge&color=ff2e88&labelColor=0d1117&logo=github&logoColor=ff69b4" />
-  <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEVELOPMENT-ff2e88?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/BASE-SRI%20LANKA%20%F0%9F%87%B1%F0%9F%87%B0-ff2e88?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=Bimandi111&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/github/followers/Bimandi111?label=FOLLOWERS&style=for-the-badge&color=ff69b4&labelColor=1a1a1a&logo=github&logoColor=ff69b4" />
+  <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEVELOPMENT-ff69b4?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/BASE-SRI%20LANKA%20%F0%9F%87%B1%F0%9F%87%B0-ff69b4?style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## `// ABOUT_ME.JSON`
+## ✧ ABOUT_ME.JSON ✧
 
 <table>
 <tr>
 <td width="55%" valign="top">
+{
+"name": "Bimandi Nesanga",
+"location": "Sri Lanka 🇱🇰",
+"role": "Full Stack Developer & Aspiring Software Engineer",
+"education": "BSc (Hons) in Software Engineering",
 
-```typescript
-const bimandi = {
-  name:       "Bimandi Nesanga",
-  location:   "Sri Lanka 🇱🇰",
-  role:       "Full Stack Developer & Aspiring Software Engineer",
-  education:  "BSc (Hons) in Software Engineering",
+"currentlyLearning": [
+"Advanced System Architecture",
+"Mobile App Development",
+"Cloud Computing"
+],
 
-  currentlyLearning: [
-    "Advanced System Architecture",
-    "Mobile App Development",
-    "Cloud Computing",
-  ],
+"workingOn": [
+"Scalable Backend Systems",
+"React Native Applications",
+"POS & Inventory Solutions"
+],
 
-  workingOn: [
-    "Scalable Backend Systems",
-    "React Native Applications",
-    "POS & Inventory Solutions",
-  ],
+"philosophy": "Beautiful code is maintainable code ✨",
+"funFact": "I code with pink themes & drink bubble tea! 🧋"
+}
 
-  philosophy: "Beautiful code is maintainable code ✨",
-  funFact:    "I refactor until it sparkles! 💫",
-};
-```
+text
 
 </td>
 <td width="45%" valign="middle" align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" alt="coding gif" />
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="280" alt="pink coding girl gif"/>
+
+<img src="https://media.giphy.com/media/hpXdHPfFI5wTABd1xV/giphy.gif" width="250" alt="kawaii computer gif"/>
 
 </td>
 </tr>
@@ -60,264 +63,189 @@ const bimandi = {
 
 <table align="center">
   <tr>
-    <td align="center">⬡ <strong>BUILD</strong></td>
+    <td align="center">🎀</td>
+    <td><strong>BUILD</strong></td>
     <td>Scalable Backend Systems · React Native Applications · Full Functional Web Applications</td>
   </tr>
   <tr>
-    <td align="center">⬡ <strong>EXPLORE</strong></td>
+    <td align="center">🌸</td>
+    <td><strong>EXPLORE</strong></td>
     <td>Advanced System Architecture · Cloud Infrastructure</td>
   </tr>
   <tr>
-    <td align="center">⬡ <strong>LEARN</strong></td>
+    <td align="center">💖</td>
+    <td><strong>LEARN</strong></td>
     <td>Mobile App Development · Distributed Systems · Cloud-Native Patterns</td>
   </tr>
   <tr>
-    <td align="center">⬡ <strong>OPEN TO</strong></td>
+    <td align="center">✨</td>
+    <td><strong>OPEN TO</strong></td>
     <td>Collaborating on production-ready & innovative systems</td>
   </tr>
   <tr>
-    <td align="center">⬡ <strong>ASK ME</strong></td>
+    <td align="center">💕</td>
+    <td><strong>ASK ME</strong></td>
     <td>Java · TypeScript · React Native · System Design · DB Optimization</td>
   </tr>
   <tr>
-    <td align="center">⬡ <strong>BELIEF</strong></td>
-    <td>Code should be functional, efficient, and perfect</td>
+    <td align="center">🎀</td>
+    <td><strong>BELIEF</strong></td>
+    <td>Code should be functional, efficient, AND pretty!</td>
   </tr>
 </table>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-## `// TECH_STACK.SYS`
+## ✧ TECH_STACK.SYS ✧
 
 <br/>
 
-**`LANGUAGES & FRAMEWORKS`**
+### 🎀 LANGUAGES & FRAMEWORKS
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=java" width="50"/><br/>Java
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=spring" width="50"/><br/>Spring Boot
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=ts" width="50"/><br/>TypeScript
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=js" width="50"/><br/>JavaScript
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=react" width="50"/><br/>React
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=react" width="50"/><br/>React Native
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=laravel" width="50"/><br/>Laravel
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=php" width="50"/><br/>PHP
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br/>Next.js
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=threejs" width="50"/><br/>Three.js
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" width="50"/>
 </p>
 
 <br/>
 
-**`FRONTEND & DESIGN`**
+### 🌸 FRONTEND & DESIGN
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="50"/><br/>HTML5
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="50"/><br/>CSS3
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br/>Bootstrap
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="50"/><br/>Tailwind CSS
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=jquery" width="50"/><br/>jQuery
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=figma" width="50"/><br/>Figma
-      </td>
-      <td align="center" width="100">
-        <img src="https://img.icons8.com/color/50/canva.png" width="50"/><br/>Canva
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jquery&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/canva.png" width="50"/>
 </p>
 
 <br/>
 
-**`DATABASES & CLOUD`**
+### 💖 DATABASES & CLOUD
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>MySQL
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"/><br/>Oracle
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=aws" width="50"/><br/>AWS
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=sqlite" width="50"/><br/>SQL
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="50"/>
 </p>
 
 <br/>
 
-**`TOOLS & ENVIRONMENT`**
+### ✨ TOOLS & ENVIRONMENT
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=git" width="50"/><br/>Git
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=github" width="50"/><br/>GitHub
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" width="50"/><br/>VS Code
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=idea" width="50"/><br/>IntelliJ
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=postman" width="50"/><br/>Postman
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="50"/><br/>WordPress
-      </td>
-      <td align="center" width="100">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="50"/><br/>Tomcat
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=arduino" width="50"/><br/>Arduino
-      </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vercel" width="50"/><br/>Vercel
-      </td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=idea&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="50"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50"/>
 </p>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## `// GITHUB_METRICS.LOG`
+## ✧ GITHUB_METRICS.LOG ✧
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bimandi111&theme=radical&hide_border=true&background=1A0E1F&stroke=C9A96E&ring=C9A0C0&fire=C9A96E&currStreakLabel=C9A0C0" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Bimandi111&theme=dark&hide_border=true&background=000000&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideNums=FF69B4&currStreakNum=FF69B4&sideLabels=FF69B4&dates=FFB6C1&exclude_days=Sun" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bimandi111&theme=radical" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bimandi111&show_icons=true&theme=dark&bg_color=000000&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=FFB6C1" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimandi111&layout=compact&theme=dark&bg_color=000000&hide_border=true&title_color=FF69B4&text_color=FFB6C1" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bimandi111&theme=radical&utcOffset=5.5" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bimandi111&theme=radical&utcOffset=5.5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bimandi111&theme=darkhub&no-frame=true&column=7&title_color=FF69B4&icon_color=FF69B4&text_color=FFB6C1&bg_color=000000" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bimandi111&theme=radical&utcOffset=5.5" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bimandi111&theme=radical&utcOffset=5.5" />
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bimandi111&bg_color=1a0e1f&color=c9a0c0&line=c9a96e&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bimandi111&bg_color=000000&color=FF69B4&line=FF69B4&point=FFB6C1&area=true&hide_border=true&custom_title=✧%20Contribution%20Graph%20✧" width="100%" />
 </p>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## `// DEV_QUOTE.PULL`
+## ✧ DEV_QUOTE.PULL ✧
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&border_color=FF69B4&bg_color=000000" />
 </p>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## `// CONTRIBUTION_SNAKE.LIVE`
+## ✧ CONTRIBUTION_SNAKE.LIVE ✧
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3l4eW8zZzFmM3h0dGt4YjNzYjBzMmc5aGZ4eTJwM2p0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abB06u9bNzA8lu8/giphy.gif" width="150" alt="cute cat sparkle gif"/>
+</div>
 
-## `// CONNECT.INIT`
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## ✧ CONNECT.INIT ✧
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="150">
-        <a href="https://www.linkedin.com/in/bimandi-nesanga-2a7347310/" target="_blank">
-          <img src="https://img.icons8.com/doodle/96/linkedin--v2.png" width="60"/><br/>
-          <sub><b>LINKEDIN</b></sub>
-        </a>
-      </td>
-      <td align="center" width="150">
-        <a href="mailto:nesanghabim25@gmail.com">
-          <img src="https://img.icons8.com/doodle/96/gmail.png" width="60"/><br/>
-          <sub><b>EMAIL</b></sub>
-        </a>
-      </td>
-      <td align="center" width="150">
-        <a href="https://facebook.com/BimandiNesanga" target="_blank">
-          <img src="https://img.icons8.com/doodle/96/facebook-new.png" width="60"/><br/>
-          <sub><b>FACEBOOK</b></sub>
-        </a>
-      </td>
-      <td align="center" width="150">
-        <a href="https://instagram.com/noir_soo" target="_blank">
-          <img src="https://img.icons8.com/doodle/96/instagram-new.png" width="60"/><br/>
-          <sub><b>INSTAGRAM</b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/bimandi-nesanga-2a7347310/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000&color=FF69B4" />
+  </a>
+  &nbsp;
+  <a href="mailto:nesanghabim25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000&color=FF69B4" />
+  </a>
+  &nbsp;
+  <a href="https://facebook.com/BimandiNesanga" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-FF69B4?style=for-the-badge&logo=facebook&logoColor=000000&labelColor=000000&color=FF69B4" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/noir_soo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=000000&color=FF69B4" />
+  </a>
 </p>
 
 <br/>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="cute cat typing gif"/>
+  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="180" alt="cute cat computer gif"/>
+</div>
+
+<br/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,c9a0c0,50,c9a96e,100,1a0e1f&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,25,20,35&height=120&section=footer" />
 </p>
 
 <p align="center">
-  <sub style="color:#C9A96E;">MADE WITH ♥ BY BIMANDI NESANGA &nbsp;·&nbsp; [ SESSION TERMINATED ]</sub>
+  <sub>💖 MADE WITH LOVE BY BIMANDI NESANGA 💖</sub><br/>
+  <sub>· [ SESSION TERMINATED ] ·</sub>
 </p>
