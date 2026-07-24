@@ -192,12 +192,6 @@ text
 
 <br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3l4eW8zZzFmM3h0dGt4YjNzYjBzMmc5aGZ4eTJwM2p0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7abB06u9bNzA8lu8/giphy.gif" width="150" alt="cute cat sparkle gif"/>
-</div>
-
-<br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## ✧ CONNECT.INIT ✧
