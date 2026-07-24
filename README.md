@@ -134,7 +134,6 @@ text
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="50"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="50"/>
 </p>
@@ -148,8 +147,6 @@ text
   <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=idea&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" width="50"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="50"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="50"/>&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50"/>
