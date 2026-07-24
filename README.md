@@ -163,15 +163,6 @@ text
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bimandi111&show_icons=true&theme=dark&bg_color=000000&hide_border=true&title_color=FF69B4&icon_color=FF69B4&text_color=FFB6C1" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimandi111&layout=compact&theme=dark&bg_color=000000&hide_border=true&title_color=FF69B4&text_color=FFB6C1" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bimandi111&theme=darkhub&no-frame=true&column=7&title_color=FF69B4&icon_color=FF69B4&text_color=FFB6C1&bg_color=000000" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bimandi111&bg_color=000000&color=FF69B4&line=FF69B4&point=FFB6C1&area=true&hide_border=true&custom_title=✧%20Contribution%20Graph%20✧" width="100%" />
 </p>
 
