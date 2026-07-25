@@ -23,32 +23,40 @@
 
 <table>
 <tr>
+  
 <td width="55%" valign="top">
+
+```json
 {
-"name": "Bimandi Nesanga",
-"location": "Sri Lanka 🇱🇰",
-"role": "Full Stack Developer & Aspiring Software Engineer",
-"education": "BSc (Hons) in Software Engineering",
+  "name": "Bimandi Nesanga",
+  "location": "Sri Lanka 🇱🇰",
+  "role": "Full Stack Developer",
+  "education": "BSc (Hons) in Software Engineering",
 
-"currentlyLearning": [
-"Advanced System Architecture",
-"Mobile App Development",
-"Cloud Computing"
-],
+  "currentlyLearning": [
+    "System Architecture",
+    "Cloud Computing",
+    "React Native"
+  ],
 
-"workingOn": [
-"Scalable Backend Systems",
-"React Native Applications",
-"POS & Inventory Solutions"
-],
+  "building": [
+    "Backend APIs",
+    "Inventory Systems",
+    "Mobile Applications"
+  ],
 
-"philosophy": "Beautiful code is maintainable code ✨",
-"funFact": "I refactor until it sparkles! 💫"
+  "interests": [
+    "UI/UX",
+    "3D Web",
+    "Open Source"
+  ],
+
+  "philosophy": "Readable code > Clever code"
 }
-
-text
+```
 
 </td>
+
 <td width="45%" valign="middle" align="center">
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="cute cat coding gif"/>
@@ -197,21 +205,23 @@ text
 ## ✧ CONNECT.INIT ✧
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bimandi-nesanga-2a7347310/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=000000&color=FF69B4" />
-  </a>
-  &nbsp;
-  <a href="mailto:nesanghabim25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF69B4?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000&color=FF69B4" />
-  </a>
-  &nbsp;
-  <a href="https://facebook.com/BimandiNesanga" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-FF69B4?style=for-the-badge&logo=facebook&logoColor=000000&labelColor=000000&color=FF69B4" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/noir_soo" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=000000&labelColor=000000&color=FF69B4" />
-  </a>
+
+<a href="https://github.com/Bimandi111">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bimandi-nesanga-2a7347310">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="mailto:nesanghabim25@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+<a href="https://instagram.com/noir_soo">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="48"/>
+</a>
+
 </p>
 
 <br/>
@@ -224,7 +234,7 @@ text
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,25,20,35&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,000000,35,000000,65,000000,100,000000&height=120&section=footer"/>
 </p>
 
 <p align="center">
