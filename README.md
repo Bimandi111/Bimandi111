@@ -181,7 +181,7 @@
 ## ✧ DEV_QUOTE.PULL ✧
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&border_color=FF69B4&bg_color=000000" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 <br/>
