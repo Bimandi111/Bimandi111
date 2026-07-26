@@ -1,243 +1,323 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,000000,35,000000,65,000000,100,000000&height=260&section=header&text=BIMANDI%20NESANGA&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=✦%20Crafting%20Beautiful%20Code%20With%20Passion%20✦&descColor=FF69B4&descAlignY=62" />
-</p>
+<!--
+  BIMANDI NESANGA — GITHUB PROFILE README
+  Cyber Pink / Black Developer Portfolio
+-->
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=750&lines=%E2%9C%A8+Full+Stack+Developer+%26+Creator;%F0%9F%8E%80+UI%2FUX+Enthusiast+%7C+Mobile+App+Developer;%F0%9F%92%95+Java+%7C+TypeScript+%7C+React+Native;%F0%9F%8C%B8+Building+Pretty+%26+Functional+Things)](https://git.io/typing-svg)
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:000000,35:240020,65:FF1493,100:000000&text=BIMANDI%20NESANGA&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20SOFTWARE%20ENGINEER%20%7C%20SYSTEM%20BUILDER&descSize=17&descAlignY=59&descColor=FFB6E1" alt="Bimandi Nesanga"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bimandi111&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/github/followers/Bimandi111?label=FOLLOWERS&style=for-the-badge&color=ff69b4&labelColor=1a1a1a&logo=github&logoColor=ff69b4" />
-  <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20DEVELOPMENT-ff69b4?style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/BASE-SRI%20LANKA%20%F0%9F%87%B1%F0%9F%87%B0-ff69b4?style=for-the-badge&labelColor=1a1a1a" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&repeat=true&width=850&height=52&lines=Building+scalable+software+systems;Java+%7C+Spring+Boot+%7C+TypeScript+%7C+React;Creating+beautiful+digital+experiences;Exploring+cloud+and+system+architecture" alt="Typing introduction"/>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=Bimandi111&style=for-the-badge&color=FF1493&label=PROFILE+VIEWS&labelColor=000000" alt="Profile views"/>
+<a href="https://github.com/Bimandi111?tab=followers">
+  <img src="https://img.shields.io/github/followers/Bimandi111?style=for-the-badge&color=FF1493&labelColor=000000&logo=github&logoColor=FFFFFF" alt="GitHub followers"/>
+</a>
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-FF1493?style=for-the-badge&labelColor=000000" alt="Status"/>
 
-## `// ABOUT_ME.JSON`
+</div>
+
+<br/>
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF1493,100:000000&height=3" alt="section divider"/>
+
+## `✦ DEVELOPER_PROFILE`
 
 <table>
-<tr>
-  
-<td width="55%" valign="top">
+  <tr>
+    <td width="58%" valign="top">
+      <pre><code>name: Bimandi Nesanga
+location: Sri Lanka 🇱🇰
+education: BSc (Hons) Software Engineering
 
-```json
-{
-  "name": "Bimandi Nesanga",
-  "location": "Sri Lanka 🇱🇰",
-  "role": "Full Stack Developer",
-  "education": "BSc (Hons) in Software Engineering",
+roles:
+  - Full Stack Software Engineer
+  - Application Developer
 
-  "currentlyLearning": [
-    "System Architecture",
-    "Cloud Computing",
-    "React Native"
-  ],
+engineering_focus:
+  backend:
+    - Java
+    - Spring Boot
+    - Laravel
+    - REST API Design
+  frontend:
+    - React
+    - TypeScript
+    - Tailwind CSS
+    - Modern UI Engineering
+  mobile:
+    - React Native
+    - Android Development
 
-  "building": [
-    "Backend APIs",
-    "Inventory Systems",
-    "Mobile Applications"
-  ],
+currently_learning:
+  - System Architecture
+  - Cloud Computing
+  - DevOps
+  - Distributed Systems
 
-  "interests": [
-    "UI/UX",
-    "3D Web",
-    "Open Source"
-  ],
+building:
+  - Production Web Applications
+  - Business Management Systems
+  - Mobile Experiences
 
-  "philosophy": "Readable code > Clever code"
-}
-```
+philosophy: "Clean code creates scalable software."</code></pre>
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding animation"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-FF1493?style=for-the-badge&labelColor=000000" alt="Software engineering focus"/>
+    </td>
+  </tr>
+</table>
 
-</td>
-
-<td width="45%" valign="middle" align="center">
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="cute cat coding gif"/>
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 BUILD</h3>
+      Designing scalable applications with clean architecture, optimized databases, and maintainable code.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎨 CREATE</h3>
+      Combining sound engineering principles with modern, accessible UI/UX experiences.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 LEARN</h3>
+      Exploring system design, cloud infrastructure, and advanced software patterns.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌎 CONTRIBUTE</h3>
+      Building thoughtful solutions that address real-world problems.
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-<br/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF1493,100:000000&height=3" alt="section divider"/>
 
-<table align="center">
-  <tr>
-    <td align="center">🎀</td>
-    <td><strong>BUILD</strong></td>
-    <td>Scalable Backend Systems · React Native Applications · Full Functional Web Applications</td>
-  </tr>
-  <tr>
-    <td align="center">🌸</td>
-    <td><strong>EXPLORE</strong></td>
-    <td>Advanced System Architecture · Cloud Infrastructure</td>
-  </tr>
-  <tr>
-    <td align="center">💖</td>
-    <td><strong>LEARN</strong></td>
-    <td>Mobile App Development · Distributed Systems · Cloud-Native Patterns</td>
-  </tr>
-  <tr>
-    <td align="center">✨</td>
-    <td><strong>OPEN TO</strong></td>
-    <td>Collaborating on production-ready & innovative systems</td>
-  </tr>
-  <tr>
-    <td align="center">💕</td>
-    <td><strong>ASK ME</strong></td>
-    <td>Java · TypeScript · React Native · System Design · DB Optimization</td>
-  </tr>
-  <tr>
-    <td align="center">🎀</td>
-    <td><strong>BELIEF</strong></td>
-    <td>Code should be functional, efficient, AND pretty!</td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## ✧ TECH_STACK.SYS ✧
-
-<br/>
-
-### 🎀 LANGUAGES & FRAMEWORKS
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=php&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" width="50"/>
-</p>
-
-<br/>
-
-### 🌸 FRONTEND & DESIGN
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=jquery&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/canva.png" width="50"/>
-</p>
-
-<br/>
-
-### 💖 DATABASES & CLOUD
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="50"/>
-</p>
-
-<br/>
-
-### ✨ TOOLS & ENVIRONMENT
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=idea&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="50"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="50"/>
-</p>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## ✧ GITHUB_METRICS.LOG ✧
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bimandi111&theme=dark&hide_border=true&background=000000&stroke=FF69B4&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideNums=FF69B4&currStreakNum=FF69B4&sideLabels=FF69B4&dates=FFB6C1&exclude_days=Sun" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bimandi111&bg_color=000000&color=FF69B4&line=FF69B4&point=FFB6C1&area=true&hide_border=true&custom_title=✧%20Contribution%20Graph%20✧" width="100%" />
-</p>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## ✧ DEV_QUOTE.PULL ✧
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## ✧ CONTRIBUTION_SNAKE.LIVE ✧
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## ✧ CONNECT.INIT ✧
-
-<p align="center">
-
-<a href="https://github.com/Bimandi111">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bimandi-nesanga-2a7347310">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-<a href="mailto:nesanghabim25@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
-</a>
-
-<a href="https://instagram.com/noir_soo">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="48"/>
-</a>
-
-</p>
-
-<br/>
+## `✦ TECH_STACK`
 
 <div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="cute cat typing gif"/>
-  <img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="180" alt="cute cat computer gif"/>
+
+<h3><code>01 // PROGRAMMING LANGUAGES</code></h3>
+<img src="https://skillicons.dev/icons?i=java,ts,js,php,python,html,css&theme=dark&perline=7" alt="Programming languages"/>
+
+<h3><code>02 // BACKEND ENGINEERING</code></h3>
+<img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,express&theme=dark&perline=4" alt="Backend technologies"/>
+
+<h3><code>03 // FRONTEND DEVELOPMENT</code></h3>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,threejs&theme=dark&perline=5" alt="Frontend technologies"/>
+
+<h3><code>04 // MOBILE DEVELOPMENT</code></h3>
+<img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark&perline=2" alt="Mobile development technologies"/>
+
+<h3><code>05 // DATABASES</code></h3>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark&perline=4" alt="Databases"/>
+
+<h3><code>06 // TOOLS &amp; CLOUD</code></h3>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,linux,vscode,idea&theme=dark&perline=8" alt="Tools and cloud platforms"/>
+
 </div>
 
 <br/>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,000000,35,000000,65,000000,100,000000&height=120&section=footer"/>
-</p>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF1493,100:000000&height=3" alt="section divider"/>
 
-<p align="center">
-  <sub>💖 MADE WITH LOVE BY BIMANDI NESANGA 💖</sub><br/>
-  <sub>· [ SESSION TERMINATED ] ·</sub>
-</p>
+## `✦ FEATURED_PROJECTS`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h2>🚕 Molla Taxi</h2>
+      <strong>Sri Lanka Transportation Platform</strong>
+      <p>A modern transportation solution for airport transfers, tourism, and private vehicle bookings.</p>
+      <p><strong>Stack:</strong> React · TypeScript · Tailwind CSS · Laravel · REST API · MySQL</p>
+      <ul>
+        <li>Dynamic fare calculation</li>
+        <li>WhatsApp booking automation</li>
+        <li>Vehicle management system</li>
+        <li>Admin dashboard</li>
+        <li>Responsive travel experience</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h2>📦 Smart Inventory System</h2>
+      <strong>Enterprise Inventory Application</strong>
+      <p>A desktop inventory management system built for efficient business operations.</p>
+      <p><strong>Stack:</strong> Java Swing · MySQL · JDBC · JasperReports · ZXing Barcode</p>
+      <ul>
+        <li>Product and stock management</li>
+        <li>Supplier management</li>
+        <li>Barcode generation</li>
+        <li>Business reporting</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h2>🌴 Sri Lanka E-Travels</h2>
+      <strong>Tourism Management Platform</strong>
+      <p>A digital platform connecting travelers with destinations across Sri Lanka.</p>
+      <p><strong>Stack:</strong> React · Laravel · MySQL · Tailwind CSS · REST API</p>
+      <ul>
+        <li>Tour packages</li>
+        <li>Destination showcase</li>
+        <li>Booking workflow</li>
+        <li>Customer management</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h2>🎓 CampusHub</h2>
+      <strong>Student Community Platform</strong>
+      <p>A web platform designed to improve student collaboration and campus services.</p>
+      <p><strong>Stack:</strong> PHP · MySQL · JavaScript · Bootstrap</p>
+      <ul>
+        <li>Community management</li>
+        <li>Student services</li>
+        <li>User authentication</li>
+        <li>Data management</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF1493,100:000000&height=3" alt="section divider"/>
+
+## `✦ SOFTWARE_ENGINEERING_INTERESTS`
+
+```yaml
+architecture:
+  - Clean Architecture
+  - SOLID Principles
+  - Design Patterns
+  - Modular Systems
+
+backend:
+  - RESTful API Design
+  - Database Optimization
+  - Authentication Systems
+  - Performance Engineering
+
+frontend:
+  - Component Architecture
+  - Responsive Design
+  - Interactive Experiences
+  - UI Performance
+
+future:
+  - Cloud-Native Applications
+  - Microservices
+  - DevOps Automation
+  - Distributed Systems
+```
+
+<br/>
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF1493,100:000000&height=3" alt="section divider"/>
+
+## `✦ GITHUB_ANALYTICS`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bimandi111&show_icons=true&hide_border=true&bg_color=000000&title_color=FF69B4&text_color=FFFFFF&icon_color=FF1493&ring_color=FF1493" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimandi111&layout=compact&hide_border=true&bg_color=000000&title_color=FF69B4&text_color=FFFFFF&langs_count=8" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Bimandi111&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bimandi111&bg_color=000000&color=FFB6E1&line=FF1493&point=FFFFFF&area=true&area_color=7A0C56&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution activity graph"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Bimandi111&hide_border=true&background=000000&stroke=3B1530&ring=FF1493&fire=FF69B4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF69B4&sideLabels=FFB6E1&dates=B88AA8" alt="GitHub coding streak"/>
+
+</div>
+
+<br/>
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF1493,100:000000&height=3" alt="section divider"/>
+
+## `✦ CONTRIBUTION_SNAKE`
+
+<div align="center">
+
+<a href="https://github.com/Bimandi111/Bimandi111/actions/workflows/snake.yml">
+  <img src="https://github.com/Bimandi111/Bimandi111/actions/workflows/snake.yml/badge.svg" alt="Snake animation workflow status"/>
+</a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bimandi111/Bimandi111/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bimandi111/Bimandi111/output/github-contribution-grid-snake.svg"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Bimandi111/Bimandi111/output/github-contribution-grid-snake.svg" alt="Animated contribution snake grid"/>
+</picture>
+
+</div>
+
+<br/>
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF1493,100:000000&height=3" alt="section divider"/>
+
+## `✦ CURRENT_GOALS`
+
+```yaml
+objectives_2026:
+  engineering:
+    - Master Spring Boot architecture
+    - Build production-ready applications
+    - Improve system design skills
+
+  development:
+    - Create open-source projects
+    - Deploy cloud applications
+    - Improve code quality
+
+  personal_brand:
+    - Build a developer portfolio
+    - Share technical knowledge
+    - Collaborate globally
+```
+
+<br/>
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF1493,100:000000&height=3" alt="section divider"/>
+
+## `✦ CONNECT_WITH_ME`
+
+<div align="center">
+
+<a href="https://github.com/Bimandi111">
+  <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FF69B4" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/bimandi-nesanga-2a7347310/">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FF69B4" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:nesanghabim25@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=FF69B4" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://instagram.com/noir_soo">
+  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=FF69B4" alt="Instagram"/>
+</a>
+
+<br/><br/>
+
+<em>“Building software that is useful, beautiful, and scalable.”</em>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:000000,50:FF1493,100:000000" alt="footer"/>
+
+<sub>© 2026 Bimandi Nesanga · Built with code, creativity, and curiosity</sub>
+
+</div>
