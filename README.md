@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:000000,35:240020,65:FF1493,100:000000&text=BIMANDI%20NESANGA&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20SOFTWARE%20ENGINEER%20%7C%20SYSTEM%20BUILDER&descSize=17&descAlignY=59&descColor=FFB6E1" alt="Bimandi Nesanga"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:000000,35:240020,65:FF1493,100:000000&text=BIMANDI%20NESANGA&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20SOFTWARE%20ENGINEER%20descSize=17&descAlignY=59&descColor=FFB6E1" alt="Bimandi Nesanga"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=FF69B4&center=true&vCenter=true&repeat=true&width=850&height=52&lines=Building+scalable+software+systems;Java+%7C+Spring+Boot+%7C+TypeScript+%7C+React;Creating+beautiful+digital+experiences;Exploring+cloud+and+system+architecture" alt="Typing introduction"/>
 
@@ -65,7 +65,7 @@ building:
 philosophy: "Clean code creates scalable software."</code></pre>
     </td>
     <td width="42%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding animation"/>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBqdjdld3Y1MXJpNWV3anVyaHMwMHg5dDh4eWl5YngyNnZwNzlzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5NE2L7vdWZ9V39Sjq8/giphy.gif" width="320" alt="Coding animation"/>
       <br/><br/>
       <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-FF1493?style=for-the-badge&labelColor=000000" alt="Software engineering focus"/>
     </td>
@@ -104,7 +104,7 @@ philosophy: "Clean code creates scalable software."</code></pre>
 <div align="center">
 
 <h3><code>01 // PROGRAMMING LANGUAGES</code></h3>
-<img src="https://skillicons.dev/icons?i=java,ts,js,php,python,html,css&theme=dark&perline=7" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=java,ts,js,php,,html,css&theme=dark&perline=7" alt="Programming languages"/>
 
 <h3><code>02 // BACKEND ENGINEERING</code></h3>
 <img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,express&theme=dark&perline=4" alt="Backend technologies"/>
@@ -113,13 +113,13 @@ philosophy: "Clean code creates scalable software."</code></pre>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,threejs&theme=dark&perline=5" alt="Frontend technologies"/>
 
 <h3><code>04 // MOBILE DEVELOPMENT</code></h3>
-<img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark&perline=2" alt="Mobile development technologies"/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark&perline=2" alt="Mobile development technologies"/>
 
 <h3><code>05 // DATABASES</code></h3>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite&theme=dark&perline=4" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark&perline=4" alt="Databases"/>
 
 <h3><code>06 // TOOLS &amp; CLOUD</code></h3>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,linux,vscode,idea&theme=dark&perline=8" alt="Tools and cloud platforms"/>
+<img src="https://skillicons.dev/icons?i=git,github,aws,vercel,vscode,idea&theme=dark&perline=8" alt="Tools and cloud platforms"/>
 
 </div>
 
@@ -132,7 +132,7 @@ philosophy: "Clean code creates scalable software."</code></pre>
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h2>🚕 Molla Taxi</h2>
+      <h2>🌴 Sri Lanka E-Travels</h2>
       <strong>Sri Lanka Transportation Platform</strong>
       <p>A modern transportation solution for airport transfers, tourism, and private vehicle bookings.</p>
       <p><strong>Stack:</strong> React · TypeScript · Tailwind CSS · Laravel · REST API · MySQL</p>
@@ -159,7 +159,7 @@ philosophy: "Clean code creates scalable software."</code></pre>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h2>🌴 Sri Lanka E-Travels</h2>
+      <h2>🚕 Molla Taxi and Tours</h2>
       <strong>Tourism Management Platform</strong>
       <p>A digital platform connecting travelers with destinations across Sri Lanka.</p>
       <p><strong>Stack:</strong> React · Laravel · MySQL · Tailwind CSS · REST API</p>
