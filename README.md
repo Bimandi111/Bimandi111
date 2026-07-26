@@ -104,7 +104,7 @@ philosophy: "Clean code creates scalable software."</code></pre>
 <div align="center">
 
 <h3><code>01 // PROGRAMMING LANGUAGES</code></h3>
-<img src="https://skillicons.dev/icons?i=java,ts,js,php,,html,css&theme=dark&perline=7" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=java,ts,js,php,html,css&theme=dark&perline=7" alt="Programming languages"/>
 
 <h3><code>02 // BACKEND ENGINEERING</code></h3>
 <img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,express&theme=dark&perline=4" alt="Backend technologies"/>
