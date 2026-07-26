@@ -225,15 +225,6 @@ future:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bimandi111&show_icons=true&hide_border=true&bg_color=000000&title_color=FF69B4&text_color=FFFFFF&icon_color=FF1493&ring_color=FF1493" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bimandi111&layout=compact&hide_border=true&bg_color=000000&title_color=FF69B4&text_color=FFFFFF&langs_count=8" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Bimandi111&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies"/>
-
-<br/><br/>
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bimandi111&bg_color=000000&color=FFB6E1&line=FF1493&point=FFFFFF&area=true&area_color=7A0C56&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="Contribution activity graph"/>
 
 <br/><br/>
@@ -249,18 +240,9 @@ future:
 ## `✦ CONTRIBUTION_SNAKE`
 
 <div align="center">
-
-<a href="https://github.com/Bimandi111/Bimandi111/actions/workflows/snake.yml">
-  <img src="https://github.com/Bimandi111/Bimandi111/actions/workflows/snake.yml/badge.svg" alt="Snake animation workflow status"/>
-</a>
-
+  
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" /> </picture> </p> <br/>
 <br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bimandi111/Bimandi111/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bimandi111/Bimandi111/output/github-contribution-grid-snake.svg"/>
-  <img width="100%" src="https://raw.githubusercontent.com/Bimandi111/Bimandi111/output/github-contribution-grid-snake.svg" alt="Animated contribution snake grid"/>
-</picture>
 
 </div>
 
@@ -300,7 +282,7 @@ objectives_2026:
   <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=FF69B4" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/bimandi-nesanga-2a7347310/">
+<a href="https://www.linkedin.com/in/bimandi-nesanga/">
   <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FF69B4" alt="LinkedIn"/>
 </a>
 &nbsp;
